@@ -1,0 +1,9 @@
+*~
+\#*
+.\#*
+.DS_Store
+compiled/
+/doc/
+etna.log
+main
+main-sampler

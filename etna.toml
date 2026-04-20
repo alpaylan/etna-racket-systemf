@@ -1,0 +1,3 @@
+name = "SYSTEMF"
+language = "Racket"
+description = "System F property-based testing workload (Racket)."
