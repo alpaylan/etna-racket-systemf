@@ -1,3 +1,5 @@
-name = "SYSTEMF"
+name = "systemf-racket"
 language = "Racket"
 description = "System F property-based testing workload (Racket)."
+
+mutations = []
