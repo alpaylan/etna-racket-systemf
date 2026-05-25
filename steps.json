@@ -26,13 +26,8 @@
         "Command": {
           "command": "${workload_path}/main",
           "args": [
-            "$property",
+            "${property}",
             "${strategy}"
-          ],
-          "params": [
-            "workload_path",
-            "property",
-            "strategy"
           ]
         }
       }
@@ -42,13 +37,8 @@
         "Command": {
           "command": "${workload_path}/main-sampler",
           "args": [
-            "$property",
-            "$tests"
-          ],
-          "params": [
-            "workload_path",
-            "property",
-            "strategy"
+            "${property}",
+            "${tests}"
           ]
         }
       }
